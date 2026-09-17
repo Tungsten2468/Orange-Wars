@@ -6,8 +6,8 @@
     <title>Unity WebGL Player | Orange Wars</title>
   </head>
   <body style="text-align: center; padding: 0; border: 0; margin: 0;">
-    <canvas id="unity-canvas" width=1550 height=850 style="width: 1550px; height: 850px; background: url('Build/OWbuild0.9.1.jpg') center / cover"></canvas>
-    <script src="Build/OWbuild0.9.1.loader.js"></script>
+    <canvas id="unity-canvas" width=1550 height=850 style="width: 1550px; height: 850px; background: url('Build/OWbuild0.9.2.jpg') center / cover"></canvas>
+    <script src="Build/OWbuild0.9.2.loader.js"></script>
     <script>
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
         // Mobile device style: fill the whole browser client area with the game canvas:
@@ -25,13 +25,13 @@
       }
 
       createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "Build/OWbuild0.9.1.data",
-        frameworkUrl: "Build/OWbuild0.9.1.framework.js",
-        codeUrl: "Build/OWbuild0.9.1.wasm",
+        dataUrl: "Build/OWbuild0.9.2.data",
+        frameworkUrl: "Build/OWbuild0.9.2.framework.js",
+        codeUrl: "Build/OWbuild0.9.2.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Tungsten2468",
         productName: "Orange Wars",
-        productVersion: "Alpha 0.91",
+        productVersion: "Alpha 0.9.2",
         // matchWebGLToCanvasSize: false, // Uncomment this to separately control WebGL canvas render size and DOM element size.
         // devicePixelRatio: 1, // Uncomment this to override low DPI rendering on high DPI displays.
       });
