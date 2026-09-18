@@ -9,6 +9,7 @@ Alpha 0.9.3.1 - 9/17/2026:
 * Fixed issue where waves were progressing even though not all enemies were dead (Refactored enemy tracking system)
 * Fixed bug where Elvis could never be removed (Refactored point-and-click system)
 * Removing troops will prompt them to drop oranges worth up to 1/3 their cost
+* Fixed bug where boosting a peel-based troop when there were no peels would consume peels, making you have negative peels
 
 Alpha 0.9.3 - 9/17/2026:
 * Nerfed Stefano's health slightly
