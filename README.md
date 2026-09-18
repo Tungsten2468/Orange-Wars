@@ -5,7 +5,12 @@ Note: It takes a bit for it to load. It may appear frozen when you first enter.
 
 ---CHANGELOG---
 
-Alpha 0.9.3 - 9/17/2026
+Alpha 0.9.3.1 - 9/17/2026:
+* Fixed issue where waves were progressing even though not all enemies were dead (Refactored enemy tracking system)
+* Fixed bug where Elvis could never be removed (Refactored point-and-click system)
+* Removing troops will prompt them to drop oranges worth up to 1/3 their cost
+
+Alpha 0.9.3 - 9/17/2026:
 * Nerfed Stefano's health slightly
 * Kevin now shoots 1 second quicker
 * Fixed bug where Big Andrew would stay stuck in his death animation
