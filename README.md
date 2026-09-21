@@ -8,6 +8,7 @@ Note: It takes a bit for it to load. It may appear frozen when you first enter.
 Alpha 0.9.3.2 - 9/20/2026:
 * Fixed game-breaking issue where levels were ending spontaneously
 * Buffed Kevin's shooting rate by one second(again)
+* Larry Bird now takes a percentage of peels rather than a fixed amount
 
 Alpha 0.9.3.1 - 9/17/2026:
 * Fixed issue where waves were progressing even though not all enemies were dead (Refactored enemy tracking system)
