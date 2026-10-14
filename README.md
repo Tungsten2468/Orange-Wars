@@ -30,6 +30,7 @@ Changes
 * Buffed Catapult: now shoots quicker
 * Reworked Larry Bird: will now take HALF of your oranges instead of a percentage
 * Scrolling sensitivity increased in the level select menu
+* Slopper's name has been changed to his real-life inspiration (we found it out)
   
 Fixes
 
