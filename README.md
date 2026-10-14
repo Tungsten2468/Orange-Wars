@@ -4,6 +4,30 @@ https://tungsten2468.github.io/Orange-Wars/
 Note: It takes a bit for it to load. It may appear frozen when you first enter.
 
 ---CHANGELOG---
+Alpha 0.1 - 10/13/2026:
+[New]
+* Fully added final boss of chapter 2: Mr. Crisp
+* Added new enemy: Security Guard
+* Added new healing type troop: John
+* You can now observe how much damage your table is taking
+* There is a back button in the troop selection screen
+* Added various extra tips + splash texts (yellow fun text)
+[Changes]
+* Entities now belong to occupation factions within their troop/enemy teams(Juniors, Sophomores, Staff)
+* Yearbook now displays Juniors, Sophomores and Staff(good and bad)
+* Improved Saba the Sphinx's boss fight theme
+* Buffed Dairon: now only costs 8 oranges and heals 12 health per heal
+* Reworked + Buffed Juan E: now shoots automatically but can be clicked to shoot on demand, now only costs 5 oranges
+* Buffed Ryan Rodriks: now attacks instantly upon deployment if there is an enemy in his lane; no awkward waiting period
+* Slight rework to Milton: now prepares his deodorant bomb and keeps it ready for when an enemy is present in his lane
+* Nerfed level "The Big Stink"
+* Nerfed enemy Andrew: now punches less quickly than before
+* Buffed Catapult: now shoots quicker
+* Reworked Larry Bird: will now take HALF of your oranges instead of a percentage
+* Scrolling sensitivity increased in the level select menu
+[Fixes]
+* Fixed catapult not shooting far enough to destroy sunscreen bottles
+* Fixed Larry Bird taking ALL oranges away instead of just a percent
 
 Alpha 0.9.3.2 - 9/20/2026:
 * Fixed game-breaking issue where levels were ending spontaneously
