@@ -5,14 +5,14 @@ Note: It takes a bit for it to load. It may appear frozen when you first enter.
 
 ---CHANGELOG---
 Alpha 0.1 - 10/13/2026:
--New-
+New
 * Fully added final boss of chapter 2: Mr. Crisp
 * Added new enemy: Security Guard
 * Added new healing type troop: John
 * You can now observe how much damage your table is taking
 * There is a back button in the troop selection screen
 * Added various extra tips + splash texts (yellow fun text)
--Changes-
+Changes
 * Entities now belong to occupation factions within their troop/enemy teams(Juniors, Sophomores, Staff)
 * Yearbook now displays Juniors, Sophomores and Staff(good and bad)
 * Improved Saba the Sphinx's boss fight theme
@@ -25,7 +25,7 @@ Alpha 0.1 - 10/13/2026:
 * Buffed Catapult: now shoots quicker
 * Reworked Larry Bird: will now take HALF of your oranges instead of a percentage
 * Scrolling sensitivity increased in the level select menu
--Fixes-
+Fixes
 * Fixed catapult not shooting far enough to destroy sunscreen bottles
 * Fixed Larry Bird taking ALL oranges away instead of just a percent
 
