@@ -15,6 +15,7 @@ New
 * You can now observe how much damage your table is taking
 * There is a back button in the troop selection screen
 * Added various extra tips + splash texts (yellow fun text)
+  
 Changes
 
 * Entities now belong to occupation factions within their troop/enemy teams(Juniors, Sophomores, Staff)
@@ -29,6 +30,7 @@ Changes
 * Buffed Catapult: now shoots quicker
 * Reworked Larry Bird: will now take HALF of your oranges instead of a percentage
 * Scrolling sensitivity increased in the level select menu
+  
 Fixes
 
 * Fixed catapult not shooting far enough to destroy sunscreen bottles
